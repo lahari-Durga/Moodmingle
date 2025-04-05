@@ -47,13 +47,6 @@ moodmingle/
 
 ---
 
-## 📱 UI Mockup
-
-![UI Mockup](prototype/moodmingle_ui_mockup.png)
-
-
----
-
 ## 🚀 Getting Started
 
 This repository is for proposal + prototype only. You can:
