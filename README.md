@@ -53,6 +53,7 @@ moodmingle/
   <img src="prototype/moodmingle_ui_mockup.png" width="80%" alt="MoodMingle UI Screens">
 </p>
 
+
 ---
 
 ## 🚀 Getting Started
