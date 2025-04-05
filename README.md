@@ -1,6 +1,5 @@
-# Moodmingle
 # 🎧 MoodMingle  
-*Generative AI-Powered Mood-Based Audio Recommendations for Kuku FM*
+*Enhancing User Engagement on Kuku FM through Generative AI-Powered Mood-Based Listening*
 
 MoodMingle is an AI feature prototype designed to personalize content on Kuku FM based on a user’s emotional state. By interpreting mood from user interactions, MoodMingle aims to increase daily listening time and app engagement through smarter recommendations.
 
