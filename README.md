@@ -47,11 +47,9 @@ moodmingle/
 
 ---
 
-## 📸 Preview
+## 📱 UI Mockup
 
-<p align="center">
-  <img src="prototype/moodmingle_ui_mockup.png" width="80%" alt="MoodMingle UI Screens">
-</p>
+![UI Mockup](prototype/moodmingle_ui_mockup.png)
 
 
 ---
@@ -76,7 +74,7 @@ This repository is for proposal + prototype only. You can:
 ## 📬 Contact
 
 Developed for the Kuku FM GenAI Assignment Round  
-👤 Lahari Durga Challapalli — [LinkedIn](#) | [GitHub](#)
+👤 Lahari Durga Challapalli
 
 ---
 
