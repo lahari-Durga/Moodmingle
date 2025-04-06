@@ -25,11 +25,11 @@ Traditional recommendation systems rely solely on past behavior. MoodMingle intr
 moodmingle/
 ├── README.md                     <- You are here!
 ├── prototype/
-│   └── moodmingle_ui_mockup.png <- High-fidelity app UI screens
+│   └── moodmingle_ui_mockup.png <- App UI screens
 ├── docs/
 │   ├── MoodMingle_Report.pdf    <- Final project report for Kuku FM
 │   └── architecture.png         <- System diagram
-├── models/                      <- Sample model notebooks or sketches
+├── models/                      <- Sample model notebook on model
     └── mood_detection_model.ipynb
 ```
 
