@@ -30,9 +30,7 @@ moodmingle/
 │   ├── MoodMingle_Report.pdf    <- Final project report for Kuku FM
 │   └── architecture.png         <- System diagram
 ├── models/                      <- Sample model notebooks or sketches
-│   └── mood_detection_model.ipynb
-└── data/
-    └── sample_user_logs.csv     <- (Optional) Example input data
+    └── mood_detection_model.ipynb
 ```
 
 ---
